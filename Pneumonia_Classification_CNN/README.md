@@ -131,7 +131,6 @@ For convenience, all visualizations are gathered here:
 
 **PyTorch Confusion Matrix**
 ![PyTorch Confusion Matrix](./Pneumonia_CNN_PyTorch/images/confusion_matrix.png)
-  
 **TensorFlow Confusion Matrix**
 [TensorFlow Confusion Matrix](./Pneumonia_CNN_TensorFlow/images/confusion_matrix.png)
   
@@ -139,7 +138,6 @@ For convenience, all visualizations are gathered here:
 
 **PyTorch Accuracy vs Loss**
 ![PyTorch Accuracy vs Loss](./Pneumonia_CNN_PyTorch/images/accuracy_vs_loss.png)
-  
 **TensorFlow Accuracy vs Loss**
 ![TensorFlow Accuracy vs Loss](./Pneumonia_CNN_TensorFlow/images/accuracy_vs_loss.png)
   
@@ -147,7 +145,6 @@ For convenience, all visualizations are gathered here:
 
 **PyTorch ROC Curve**
 ![PyTorch ROC Curve](./Pneumonia_CNN_PyTorch/images/roc_curve.png)
-
 **TensorFlow ROC Curve** 
 ![TensorFlow ROC Curve](./Pneumonia_CNN_TensorFlow/images/roc_curve.png)
   
@@ -155,7 +152,6 @@ For convenience, all visualizations are gathered here:
 
 **PyTorch Misclassified Example**
 ![PyTorch Misclassified Example](./Pneumonia_CNN_PyTorch/images/misclassified.png)
-
 **TensorFlow Misclassified Example**
 ![TensorFlow Misclassified Example](./Pneumonia_CNN_TensorFlow/images/misclassified.png)
   
