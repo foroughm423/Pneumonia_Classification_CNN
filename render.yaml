@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: pneumonia-app
+    env: docker
+    rootDir: Pneumonia_Classification_CNN/pneumonia_app
+    autoDeploy: true
+    plan: free
+    ports:
+      - 5000
