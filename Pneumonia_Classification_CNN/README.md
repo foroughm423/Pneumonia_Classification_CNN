@@ -71,8 +71,8 @@ This project explores the use of Convolutional Neural Networks (CNNs) for detect
   - Accuracy: 82%
   - AUC: 0.94
 - Visuals:
-  ✨ ![PyTorch Confusion Matrix](Pneumonia_CNN_PyTorch/images/cm_pytorch.png)
-  ✨ ![PyTorch Acc vs Loss](Pneumonia_CNN_PyTorch/images/acc_loss_pytorch.png)
+  ✨ ![PyTorch Confusion Matrix](Pneumonia_Classification_CNN/Pneumonia_CNN_PyTorch/images/confusion_matrix.png)
+  ✨ ![PyTorch Acc vs Loss](Pneumonia_Classification_CNN/Pneumonia_CNN_PyTorch/images/Pneumonia_Classification_CNN/Pneumonia_CNN_PyTorch/images/accuracy_vs_loss.png)
 
 | Metric             | PyTorch         |
 |--------------------|-----------------|
