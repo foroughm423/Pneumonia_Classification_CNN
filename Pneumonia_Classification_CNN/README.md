@@ -72,7 +72,7 @@ This project explores the use of Convolutional Neural Networks (CNNs) for detect
   - AUC: 0.94
 - Visuals:
   ✨ ![PyTorch Confusion Matrix](./Pneumonia_CNN_PyTorch/images/confusion_matrix.png)
-  ✨ ![PyTorch Acc vs Loss](./Pneumonia_CNN_PyTorch/images/Pneumonia_Classification_CNN/Pneumonia_CNN_PyTorch/images/accuracy_vs_loss.png)
+  ✨ ![PyTorch Acc vs Loss](./Pneumonia_CNN_PyTorch/images/accuracy_vs_loss.png)
 
 | Metric             | PyTorch         |
 |--------------------|-----------------|
@@ -94,8 +94,8 @@ This project explores the use of Convolutional Neural Networks (CNNs) for detect
   - Accuracy: 88%
   - AUC: 0.95
 - Visuals:
-  ✨ ![TensorFlow Confusion Matrix](Pneumonia_CNN_TensorFlow/images/cm_tensorflow.png)
-  ✨ ![TensorFlow Acc vs Loss](Pneumonia_CNN_TensorFlow/images/acc_loss_tensorflow.png)
+  ✨ ![TensorFlow Confusion Matrix](./Pneumonia_CNN_TensorFlow/images/confusion_matrix.png)
+  ✨ ![TensorFlow Acc vs Loss](./Pneumonia_CNN_TensorFlow/images/accuracy_vs_loss.png)
 
 | Metric             | TensorFlow      |
 |--------------------|-----------------|
@@ -127,17 +127,17 @@ This project explores the use of Convolutional Neural Networks (CNNs) for detect
 ## 🖼 Visualizations
 For convenience, all visualizations are gathered here:
 - Confusion Matrices:
-  - ![PyTorch Confusion Matrix](Pneumonia_CNN_PyTorch/images/confusion_matrix/confusion_matrix.png)
-  - ![TensorFlow Confusion Matrix](Pneumonia_CNN_TensorFlow/images/confusion_matrix/confusion_matrix.png)
+  - ![PyTorch Confusion Matrix](./Pneumonia_CNN_PyTorch/images/confusion_matrix.png)
+  - ![TensorFlow Confusion Matrix](./Pneumonia_CNN_TensorFlow/images/confusion_matrix.png)
 - Accuracy vs Loss Curves:
-  - ![PyTorch Accuracy vs Loss](Pneumonia_CNN_PyTorch/images/accuracy_vs_loss/accuracy_vs_loss.png)
-  - ![TensorFlow Accuracy vs Loss](Pneumonia_CNN_TensorFlow/images/accuracy_vs_loss/accuracy_vs_loss.png)
+  - ![PyTorch Accuracy vs Loss](./Pneumonia_CNN_PyTorch/images/accuracy_vs_loss.png)
+  - ![TensorFlow Accuracy vs Loss](./Pneumonia_CNN_TensorFlow/images/accuracy_vs_loss.png)
 - ROC Curves (AUC comparison):
-  - ![PyTorch ROC Curve](Pneumonia_CNN_PyTorch/images/roc_curve/roc_curve.png)
-  - ![TensorFlow ROC Curve](Pneumonia_CNN_TensorFlow/images/roc_curve/roc_curve.png)
+  - ![PyTorch ROC Curve](./Pneumonia_CNN_PyTorch/images/roc_curve.png)
+  - ![TensorFlow ROC Curve](./Pneumonia_CNN_TensorFlow/images/roc_curve.png)
 - Examples of Misclassification:
-  - ![PyTorch Misclassified Example](Pneumonia_CNN_PyTorch/images/misclassified/misclassified_1.png)
-  - ![TensorFlow Misclassified Example](Pneumonia_CNN_TensorFlow/images/misclassified/misclassified_1.png)
+  - ![PyTorch Misclassified Example](./Pneumonia_CNN_PyTorch/images/misclassified.png)
+  - ![TensorFlow Misclassified Example](./Pneumonia_CNN_TensorFlow/images/misclassified.png)
   
 ---
 
