@@ -192,7 +192,7 @@ You can also deploy the app online with Render for a live demo:
 1. Push your project to GitHub (ensure best_model.keras is in the pneumonia_app/ directory).
 2. Go to the [Render Dashboard](https://dashboard.render.com/) and create a New Web Service.
 3. Connect your GitHub repo and set pneumonia_app/ as the root directory.
-4. Ensure a render.yaml file is in the repository root; Render will use it to build and deploy automatically.
+4. Ensure a `render.yaml` file is in the repository root; Render will use it to build and deploy automatically.
 5. After deployment, your app will be available at a public URL (shown in the Render Dashboard, e.g., [https://your-app.onrender.com](https://your-app.onrender.com/)).
 📌 *Tip: If deployment fails, check Render logs for error details.*
 
