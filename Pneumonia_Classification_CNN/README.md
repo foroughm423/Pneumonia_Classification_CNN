@@ -128,28 +128,36 @@ This project explores the use of Convolutional Neural Networks (CNNs) for detect
 For convenience, all visualizations are gathered here:
 
 ### Confusion Matrices:
-- **PyTorch Confusion Matrix**
-  ![PyTorch Confusion Matrix](./Pneumonia_CNN_PyTorch/images/confusion_matrix.png)
-- **TensorFlow Confusion Matrix**
-  ![TensorFlow Confusion Matrix](./Pneumonia_CNN_TensorFlow/images/confusion_matrix.png)
+
+**PyTorch Confusion Matrix**
+![PyTorch Confusion Matrix](./Pneumonia_CNN_PyTorch/images/confusion_matrix.png)
+  
+**TensorFlow Confusion Matrix**
+[TensorFlow Confusion Matrix](./Pneumonia_CNN_TensorFlow/images/confusion_matrix.png)
   
 ### Accuracy vs Loss Curves:
-- **PyTorch Accuracy vs Loss**
-  ![PyTorch Accuracy vs Loss](./Pneumonia_CNN_PyTorch/images/accuracy_vs_loss.png)
-- **TensorFlow Accuracy vs Loss**
-  ![TensorFlow Accuracy vs Loss](./Pneumonia_CNN_TensorFlow/images/accuracy_vs_loss.png)
+
+**PyTorch Accuracy vs Loss**
+![PyTorch Accuracy vs Loss](./Pneumonia_CNN_PyTorch/images/accuracy_vs_loss.png)
+  
+**TensorFlow Accuracy vs Loss**
+![TensorFlow Accuracy vs Loss](./Pneumonia_CNN_TensorFlow/images/accuracy_vs_loss.png)
   
 ### ROC Curves (AUC comparison):
-- **PyTorch ROC Curve**
-  ![PyTorch ROC Curve](./Pneumonia_CNN_PyTorch/images/roc_curve.png)
-- **TensorFlow ROC Curve** 
-  ![TensorFlow ROC Curve](./Pneumonia_CNN_TensorFlow/images/roc_curve.png)
+
+**PyTorch ROC Curve**
+![PyTorch ROC Curve](./Pneumonia_CNN_PyTorch/images/roc_curve.png)
+
+**TensorFlow ROC Curve** 
+![TensorFlow ROC Curve](./Pneumonia_CNN_TensorFlow/images/roc_curve.png)
   
 ### Examples of Misclassification:
-- **PyTorch Misclassified Example**
-  ![PyTorch Misclassified Example](./Pneumonia_CNN_PyTorch/images/misclassified.png)
-- **TensorFlow Misclassified Example**
-  ![TensorFlow Misclassified Example](./Pneumonia_CNN_TensorFlow/images/misclassified.png)
+
+**PyTorch Misclassified Example**
+![PyTorch Misclassified Example](./Pneumonia_CNN_PyTorch/images/misclassified.png)
+
+**TensorFlow Misclassified Example**
+![TensorFlow Misclassified Example](./Pneumonia_CNN_TensorFlow/images/misclassified.png)
   
 ---
 
@@ -203,7 +211,7 @@ You can also deploy the app online with [Render](https://render.com/) for a live
 ---
 
 ## ⚖️ License  
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
 
 ---
 
