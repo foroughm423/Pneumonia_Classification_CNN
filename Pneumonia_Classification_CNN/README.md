@@ -182,15 +182,18 @@ The pneumonia_app/ directory contains a Flask-based web application, which uses 
 
 📌 Adjust the port mapping (e.g., -p 8080:5000) if port 5000 is occupied.
 
-### 🌐 Run on Render (Optional)
+### 🌐 Run on Render
 
-You can also deploy the app online with [Render](https://render.com/) for a live demo:
-
-1. Push your project to GitHub (ensure best\_model.keras is in the pneumonia\_app/ directory).
+You can also deploy the app online with Render for a live demo:
+#### Prerequisites
+- A [Render account](https://render.com/)
+- Project pushed to a GitHub repository
+#### Steps
+1. Push your project to GitHub (ensure best_model.keras is in the pneumonia_app/ directory).
 2. Go to the [Render Dashboard](https://dashboard.render.com/) and create a New Web Service.
 3. Connect your GitHub repo and set pneumonia_app/ as the root directory.
-4. After deployment, your app will be available at a public URL (e.g., [https://your-app.onrender.com](https://your-app.onrender.com/)).
-
+4. Ensure a render.yaml file is in the repository root; Render will use it to build and deploy automatically.
+5. After deployment, your app will be available at a public URL (shown in the Render Dashboard, e.g., [https://your-app.onrender.com](https://your-app.onrender.com/)).
 📌 *Tip: If deployment fails, check Render logs for error details.*
 
 ---
