@@ -177,6 +177,11 @@ The pneumonia_app/ directory contains a Flask-based web application, which uses 
 
 👉 http://localhost:5000
 
+### 🖼️ Web App Screenshot
+
+Here’s what the web application looks like after running the Docker container:
+
+![Pneumonia Detection Web App](../assets/webapp_screenshot.png)
 
 📌 Ensure best_model.keras (from Pneumonia_CNN_TensorFlow/) is placed inside the pneumonia_app/ directory.
 
